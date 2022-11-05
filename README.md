@@ -2,6 +2,14 @@
 ### Hi there 👋, my name is S S Md. Bayzid
 #### I am a Web Developer
 
+<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm S S Md, Bayzid</h1>
+<h3 align="center">¯\_(ツ)_/¯
+
+React Developer| Frontend Developer| Web Developer
+
+?></h3>
+<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+
 
 Skills: NODE.JS / REACT / JS / HTML / CSS/ MONGO_DB
 
@@ -34,13 +42,13 @@ Programmer | Content Creator | Learner
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **ssmd.bayzid@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
