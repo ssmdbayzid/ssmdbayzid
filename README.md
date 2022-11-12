@@ -13,9 +13,18 @@ React Developer| Frontend Developer| Web Developer
 
 Skills: NODE.JS / REACT / JS / HTML / CSS/ MONGO_DB
 
-- 🔭 I’m currently working on this page. 
+
+- - 🔭 I’m currently working on **Web Development**
+
+- 🌱 I’m currently learning **TypeScript**
+
+- 👯 I’m looking to collaborate on **Open Source**
+
 - 💬 Ask me about React.JS, JavaScript, Node.JS 
-- 📫 How to reach me: ssmd.bayzid@gmail.com 
+
+- 📫 How to reach me **ssmd.bayzid@gmail.com**
+
+- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ssmdbayzid)  [<img  src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ssmdbayzid/)  [<img   src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ssmd.bayzid)  [<img   src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bayzid-developer.web.app/)  
