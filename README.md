@@ -1,6 +1,4 @@
 ![I am a Web Developer](https://i.ibb.co/8rRNk5H/Geometric-Futuristic-Technology-Design-Linked-In-Banner-1.png)
-### Hi there 👋, my name is S S Md. Bayzid
-#### I am a Web Developer
 
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm S S Md, Bayzid</h1>
 <h3 align="center">¯\_(ツ)_/¯
@@ -28,36 +26,6 @@ Skills: NODE.JS / REACT / JS / HTML / CSS/ MONGO_DB
 
 
   
-<br />
-<br />
-
-  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssmdbayzid)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssmdbayzid&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/ssmdbayzid)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ssmdbayzid)  
-
-
-![Profile views](https://gpvc.arturio.dev/ssmdbayzid)  
-
-
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
-
-- 🔭 I’m currently working on **Web Development**
-
-- 🌱 I’m currently learning **TypeScript**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **ssmd.bayzid@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
 
