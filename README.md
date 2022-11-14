@@ -70,7 +70,7 @@ Skills: NODE.JS / REACT / JS / HTML / CSS/ MONGO_DB
 
 <p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssmdbayzid&show_icons=true&locale=en&layout=compact" alt="S S Md. Bayzid" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="Kazi Mahbubur Rahman" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ssmdbayzid&show_icons=true&locale=en" alt="S S Md. Bayzid" /></p>
 
 [website]: https://bayzid-developer.web.app/
 [facebook]: https://facebook.com/ssmd.bayzid
