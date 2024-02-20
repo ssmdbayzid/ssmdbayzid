@@ -1,3 +1,9 @@
+# <img src="https://your-banner-image-url" alt="Banner" width="800px">
+
+## 👋 Hello, World! I'm YourName
+
+
+
 # 💫 About Me:
 ⦿🔭 I’m currently working on Next JS<br><br>⦿ 🌱 I’m currently learning the backend<br><br>⦿ 💬 Ask me about React, Mongodb, Express.<br><br>⦿ 📫 How to reach me ssmd.bayzid@gmail.com<br><br>⦿ ⚡ Fun fact I am funny
 
